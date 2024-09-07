@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tweets_of_talha" target="blank"><img src="https://img.shields.io/twitter/follow/tweets_of_talha?logo=twitter&style=for-the-badge" alt="tweets_of_talha" /></a> </p>
 
-- 🌱 I’m currently learning **Django,Javascript**
+- 🌱 I’m currently learning **Kotlin ,Javascript**
 
 - 📫 How to reach me **khalidtalha00@gmail.com**
 

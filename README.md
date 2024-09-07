@@ -19,7 +19,7 @@
 <a href="https://twitter.com/tweets_of_talha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tweets_of_talha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/talha-khalid-721574268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talha-khalid-721574268" height="30" width="40" /></a>
 <a href="https://instagram.com/talha.khan_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talha.khan_00" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/khalidtalha00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khalidtalha00" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/khalidtalha00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khalidtalha00" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

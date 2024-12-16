@@ -23,7 +23,7 @@
       /></a>
     </p>
     
-- 🌱 I’m currently learning **Django,Javascript**
+- 🌱 I’m currently learning **Kotlin,React**
 
 - 📫 How to reach me **khalidtalha00@gmail.com**
 

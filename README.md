@@ -34,15 +34,6 @@
  -->
 
  ![Header](./github-header-image.png) 
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
     <h1 align="center">Hi 👋, I'm Talha Khalid</h1>
     <h3 align="center">
       Second Year student passionate about AI and Data Science
@@ -53,7 +44,6 @@
       width="400"
       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
     />
-
     <p align="left">
       <img
         src="https://komarev.com/ghpvc/?username=khalidtalha00&label=Profile%20views&color=0e75b6&style=flat"
@@ -61,17 +51,15 @@
       />
     </p>
 
-    <p align="left">
+   <p align="left">
       <a href="https://twitter.com/tweets_of_talha" target="blank"
         ><img
           src="https://img.shields.io/twitter/follow/tweets_of_talha?logo=twitter&style=for-the-badge"
           alt="tweets_of_talha"
       /></a>
     </p>
-
     - 🌱 I’m currently learning **Kotlin ,Javascript** - 📫 How to reach me
     **khalidtalha00@gmail.com** - ⚡ Fun fact **I sometimes write poetry**
-
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a href="https://twitter.com/tweets_of_talha" target="blank"
@@ -100,7 +88,6 @@
       /></a>
       <!-- <a href="https://www.hackerrank.com/khalidtalha00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khalidtalha00" height="30" width="40" /></a> -->
     </p>
-
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
       <a
@@ -207,7 +194,6 @@
           height="40"
         />
       </a>
-
       <a
         href="https://www.mysql.com/  "
         target="_blank"
@@ -220,8 +206,7 @@
           height="43"
         />
       </a>
-
-      <a
+     <a
         href="https://www.djangoproject.com/"
         target="_blank"
         rel="noreferrer"
@@ -247,8 +232,7 @@
           height="40"
         />
       </a>
-
-      <a
+     <a
         href="https://jupyter.org/"
         target="_blank"
         rel="noreferrer"
@@ -272,8 +256,7 @@
           height="40"
         />
       </a>
-
-      <a
+     <a
         href="https://www.jetbrains.com/pycharm/"
         target="_blank"
         rel="noreferrer"
@@ -285,7 +268,6 @@
           height="40"
         />
       </a>
-
       <a
         href="https://www.jetbrains.com/idea/"
         target="_blank"
@@ -299,7 +281,6 @@
         />
       </a>
     </p>
-
     <p>
       <img
         align="left"
@@ -307,7 +288,6 @@
         alt="khalidtalha00"
       />
     </p>
-
     <p>
       &nbsp;<img
         align="center"
@@ -315,7 +295,6 @@
         alt="khalidtalha00"
       />
     </p>
-
     <p>
       <img
         align="center"
@@ -323,5 +302,4 @@
         alt="khalidtalha00"
       />
     </p>
-  </body>
-</html>
+ 

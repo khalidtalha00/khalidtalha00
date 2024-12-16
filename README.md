@@ -1,13 +1,4 @@
 ![Header](./github-header-image.png) 
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
     <h1 align="center">Hi 👋, I'm Talha Khalid</h1>
     <h3 align="center">
       Second Year student passionate about AI and Data Science
@@ -275,5 +266,3 @@
         alt="khalidtalha00"
       />
     </p>
-  </body>
-</html>

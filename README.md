@@ -22,8 +22,13 @@
           alt="tweets_of_talha"
       /></a>
     </p>
-    - 🌱 I’m currently learning **Kotlin ,Javascript** - 📫 How to reach me
-    **khalidtalha00@gmail.com** - ⚡ Fun fact **I sometimes write poetry**
+    
+- 🌱 I’m currently learning **Django,Javascript**
+
+- 📫 How to reach me **khalidtalha00@gmail.com**
+
+- ⚡ Fun fact **I sometimes write poetry**
+
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a href="https://twitter.com/tweets_of_talha" target="blank"

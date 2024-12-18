@@ -155,13 +155,11 @@
         href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"
         target="_blank"
         rel="noreferrer"
-        style="text-decoration: none"
-        ><img
+        style="text-decoration: none"><img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
           alt="bootstrap"
           width="40"
-          height="40"
-        />
+          height="40">
       </a>
  <a
         href="https://www.mysql.com/  "

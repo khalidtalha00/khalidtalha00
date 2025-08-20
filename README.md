@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png) 
     <h1 align="center">Hi 👋, I'm Talha Khalid</h1>
     <h3 align="center">
-      Second Year student passionate about AI and Data Science
+      B-tech Final Year student passionate about AI and Data Science
     </h3>
     <img
       align="right"

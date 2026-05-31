@@ -1,271 +1,153 @@
-![Header](./github-header-image.png) 
-    <h1 align="center">Hi 👋, I'm Talha Khalid</h1>
-    <h3 align="center">
-      B-tech Final Year student passionate about AI and Data Science
-    </h3>
-    <img
-      align="right"
-      alt="coding"
-      width="400"
-      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-    />
-    <p align="left">
-      <img
-        src="https://komarev.com/ghpvc/?username=khalidtalha00&label=Profile%20views&color=0e75b6&style=flat"
-        alt="khalidtalha00"
-      />
-    </p>
-    <p align="left">
-      <a href="https://twitter.com/tweets_of_talha" target="blank"
-        ><img
-          src="https://img.shields.io/twitter/follow/tweets_of_talha?logo=twitter&style=for-the-badge"
-          alt="tweets_of_talha"
-      /></a>
-    </p>
-    
-- 🌱 I’m currently learning **Kotlin,React**
+<div align="center">
 
-- 📫 How to reach me **khalidtalha00@gmail.com**
+```
+████████╗ █████╗ ██╗     ██╗  ██╗ █████╗
+╚══██╔══╝██╔══██╗██║     ██║  ██║██╔══██╗
+   ██║   ███████║██║     ███████║███████║
+   ██║   ██╔══██║██║     ██╔══██║██╔══██║
+   ██║   ██║  ██║███████╗██║  ██║██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-- ⚡ Fun fact **I sometimes write poetry**
+### `< Full-Stack Developer />` · `{ ML Enthusiast }` · `[AI & DS]`
 
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-      <a href="https://twitter.com/tweets_of_talha" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-          alt="tweets_of_talha"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://linkedin.com/in/talha-khalid-721574268" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="talha-khalid-721574268"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://instagram.com/talha.khan_00" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-          alt="talha.khan_00"
-          height="30"
-          width="40"
-      /></a>
-      <!-- <a href="https://www.hackerrank.com/khalidtalha00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khalidtalha00" height="30" width="40" /></a> -->
-    </p>
-    <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
-      <a
-        href="https://www.cprogramming.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-          alt="c"
-          width="40"
-          height="40"
-          style="text-decoration: none"
-        />
-      </a>
-      <a
-        href="https://devdocs.io/cpp/"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-      >
-        <img
-          src="https://assets.codeguru.com/uploads/2003/02/C-tutorials.jpg"
-          alt="c++"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.python.org"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-          alt="python"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.java.com/en/"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-      >
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/java.svg"
-          alt="java"
-          width="43"
-          height="43"
-        />
-      </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.w3.org/html/"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.w3schools.com/css/"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
-          alt="bootstrap"
-          width="40"
-          height="40">
-      </a>
- <a
-        href="https://www.mysql.com/  "
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-        ><img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx25AX0zo1Hxz_tPZ2Oi3GpX9-TfcClBSHLg&s"
-          alt="mysql"
-          width="43"
-          height="43"
-        />
-      </a>
-      <a
-        href="https://www.djangoproject.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-      >
-       <img
-          src="https://cdn.worldvectorlogo.com/logos/django.svg"
-          alt="django"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://git-scm.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-      >
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://jupyter.org/"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-        ><img
-          src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png"
-          alt="java"
-          width="45"
-          height="45x`x"
-        />
-      </a>
-      <a
-        href="https://code.visualstudio.com/"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-        ><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"
-          alt="java"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.jetbrains.com/pycharm/"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-        ><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"
-          alt="pycharm"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.jetbrains.com/idea/"
-        target="_blank"
-        rel="noreferrer"
-        style="text-decoration: none"
-        ><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png"
-          alt="pycharm"
-          width="40"
-          height="40"
-        />
-      </a>
-    </p>
-    <p>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidtalha00&show_icons=true&locale=en&layout=compact"
-        alt="khalidtalha00"
-      />
-    </p>
-    <p>
-      &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=khalidtalha00&show_icons=true&locale=en"
-        alt="khalidtalha00"
-      />
-    </p>
-    <p>
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=khalidtalha00&"
-        alt="khalidtalha00"
-      />
-    </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+full-stack+apps+that+scale;Training+ML+models+that+actually+work;MERN+%7C+Django+%7C+YOLOv8+%7C+Scikit-learn;Final+Year+%40+GNIOT+%E2%80%94+AI+%26+Data+Science)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://linkedin.com/in/khalidtalha00"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:khalidtalha00@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/tweets_of_talha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/khalidtalha00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=khalidtalha00&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+talha = {
+    "location"    : "New Delhi, India 🇮🇳",
+    "education"   : "B.Tech AI & Data Science @ GNIOT (2022–2026)",
+    "focus"       : ["Full-Stack Dev", "REST APIs", "Machine Learning"],
+    "stack"       : ["MERN", "Django", "YOLO", "Scikit-learn"],
+    "currently"   : "Building scalable apps & training smarter models",
+    "fun_fact"    : "I sometimes write poetry 🖊️"
+}
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎫 QR Ticket Booking Platform
+**MERN Stack** · Sep–Dec 2025
+
+- Reduced manual verification time by **70%**
+- Built **10+ REST API** endpoints for auth, bookings & QR generation
+- Improved frontend responsiveness by **35%**
+
+</td>
+<td width="50%">
+
+### 🎯 Real-Time Object Detection
+**Flask + OpenCV + YOLOv8** · Jun–Aug 2024
+
+- Achieved **30+ FPS** with **90% detection accuracy**
+- Reduced processing delays by **45%** via async pipelines
+- Optimized inference latency by **32%**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛍️ Full-Stack E-Commerce App
+**Django + JavaScript** · Oct 2023–Jan 2024
+
+- 20+ dynamic product pages with cart, auth & payments
+- **95% cart persistence** reliability via dual-state architecture
+- Async Fetch API for zero-reload cart operations
+
+</td>
+<td width="50%">
+
+### 🔍 Fake Job Detection Model
+**ML · IIT Kanpur Internship** · Jul–Sep 2025
+
+- Trained on **17,000+ records** — **92% accuracy**
+- Boosted precision by **15%** via EDA & feature engineering
+- Random Forest cybercrime classifier: **86% accuracy** across 10+ categories
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend & Databases**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**ML / Data Science**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalidtalha00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidtalha00&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidtalha00&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+
+*"Code is poetry in motion — and I write both."* ✍️
+
+</div>
